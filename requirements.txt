@@ -1,0 +1,14 @@
+lxml
+newspaper
+numpy
+pandas
+pickle
+pika
+python-dateutil
+python-jsonrpc
+pymongo
+redis
+requests
+sklearn
+tensorflow
+watchdog
